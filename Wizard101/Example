@@ -1,0 +1,5 @@
+***Spells Format Example
+Level requirement - Spell Name - Pip requirement - Accuracy - Spell select (enemy/ally) - REPEAT FOR EACH EFFECT (Effect - (Effect Type) - School - Value - (Bounds for Damage) - enemy/ally) - end
+example
+50 Fireball 0 100 enemy damage fire 150 0 enemy end
+20 Icebird 2 80 enemy damage ice 300 25 enemy +charm ice 40 self end

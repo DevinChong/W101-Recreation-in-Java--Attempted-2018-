@@ -1,0 +1,10 @@
+0 Flare fire 0 100 enemy damage fire 100 0 enemy end
+1 Firecat fire 1 75 enemy damage fire 80 40 enemy end
+4 Fireblade fire 0 100 ally +charm damage fire 35 ally end
+5 Fire_Elf fire 2 75 enemy DoT fire 100 210 3 enemy end 
+10 Fire_Shield fire 0 100 ally -ward damage fire 80 ally end
+12 Link fire 2 75 enemy DoT fire 30 150 3 enemy HoT heal 15 105 3 self end
+16 Fire_Trap fire 0 100 enemy +ward damage fire 25 enemy end
+22 Meteor_Strike fire 4 100 false damage fire 305 0 enemy end
+25 Wyldfire fire 2 100 both bubble damage fire 25 end
+90 King_Artorius fire 8 75 enemy damage fire 840 0 enemy +charm pierce fire 10 self end

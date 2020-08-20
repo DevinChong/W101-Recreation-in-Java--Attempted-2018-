@@ -1,0 +1,11 @@
+16 Tower_Shield ice 0 100 ally -ward damage any 50 ally end
+18 Elemental_Blade balance 1 100 ally +charm damage fire 35 ally +charm damage ice 35 ally +charm damage storm 35 ally end
+26 Saytr life 4 90 ally heal 860 0 end
+4 Weakness balance 0 100 enemy -charm damage any 25 enemy end
+26 Feint death 1 100 enemy +ward damage any 70 enemy end
+1 Bloodbat myth 1 80 enemy damage myth 100 0 enemy end
+5 Lightning_Bats storm 2 70 enemy damage storm 245 10 enemy end
+25 Bladestorm balance 1 100 false +charm damage any 25 ally end
+56 Colossal sun 0 100 hand sun damage 300 end
+50 Fortify star 0 100 false aura -ward damage any 15 self end
+52 Amplify star 0 100 false aura +charm damage any 15 self end
